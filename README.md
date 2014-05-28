@@ -1,0 +1,4 @@
+FTWCoin
+=======
+
+A new altcoin
